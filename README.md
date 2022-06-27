@@ -1,16 +1,13 @@
-# contra
+# bomberman
 
-A new Flutter project.
+# 本期是flutter教學系列的第二十八期
 
-## Getting Started
+# 教學內容包括：
+- avdanced flame engine techniques
+- 高級的flame engine應用
+# 教學預期：學員能夠更好做規劃遊戲的構架
+視頻地址：https://youtu.be/kndvHtqqNA0 <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-This project is a starting point for a Flutter application.
+![遊戲截屏](https://github.com/imperativelyfunctional/better_map/blob/main/demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
